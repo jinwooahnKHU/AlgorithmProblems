@@ -15,5 +15,6 @@ def solution():
     
     print(H, M, sep=' ')
 
-
 solution()
+
+
