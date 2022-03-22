@@ -1,6 +1,8 @@
 //Implementation of Quicksort
 //합병 정렬 구현하기
-
+//input
+// 10
+// 2 5 3 4 8 7 -1 9 10 2
 #include <stdio.h>
 
 const int MAX = 100000;
